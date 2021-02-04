@@ -1,10 +1,15 @@
-<h1>Bem vindo turma 14A do itaú pele treinamento da Gama </h1>
+<h1>Tá Pra Vencer!</h1>
 
-<h3> Um deploy aotomático feito com alunos do itaú </h3>
+<h3> Seu ajudante no controle da dispensa! </h3>
 
-<h5>Tentar sempre, desistir as vezes!!!<h5>
+<div style="display:flex">
+	<div style="width:200px;height:200px;background:green;color:white;padding:50px;margin:10px">
+  	<h3>Menos desperdício!<h3>
+	</div>
 
-<div style="width:200px;height:200px;background:yellow">
-  Um teste em um quadrado
+
+	<div style="width:200px;height:200px;background:yellow;padding:50px;margin:10px">
+  	<h3>Mais economia!<h3>
+	</div>
 </div>
 
